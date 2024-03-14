@@ -8,6 +8,9 @@
     "type": "git",
     "url": "https://github.com/gsf/swap.js.git"
   },
+  "dependencies": {
+    "convert-local-date-npm": "^1.0.3"
+  },
   "scripts": {
     "test": "node test.js"
   }
